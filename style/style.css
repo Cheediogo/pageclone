@@ -95,10 +95,10 @@ header {
 }
 
 .gallery .gallery-img-1{
-    background-image: url("./img/gallery-1.jpg");
+    background-image: url("../img/gallery-1.jpg");
 }
 .gallery .gallery-img-2{
-    background-image: url("./img/gallery-2.jpg");
+    background-image: url("../img/gallery-2.jpg");
 }
 .gallery .gallery-img-3{
     background-image: url("./img/gallery-3.jpg");
